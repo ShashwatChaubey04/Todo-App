@@ -10,27 +10,44 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 - ✅ **Mark tasks as completed** to track progress  
 - 💾 Persistent storage using local database (SQLite)  
 - 📱 Clean and responsive user interface  
-
+<br>
+<br>
 ## 📂 Folder Structure
+<br>
 lib/
+<br>
  ┣ constants/
- ┣ models/          
- ┣ screens/        
- ┣ widgets/         
+<br>
+ ┣ models/  
+<br>
+ ┣ screens/ 
+<br>
+ ┣ widgets/  
+<br>
  ┣ main.dart       
-
+<br>
+<br>
 ## 📦 Dependencies Used
+<br>
 provider – State management
+<br>
 sqflite – Local database
+<br>
 path_provider – File system paths
-
+<br>
+<br>
 ## 📄 License
+<br>
 This project is licensed under the MIT License.
-
+<br>
+<br>
 🔗 Resources
+<br>
 Flutter Documentation
+<br>
 WsCube Tech
-
+<br>
+<br>
 ## 🚀 Getting Started
 To run this project locally:
 
