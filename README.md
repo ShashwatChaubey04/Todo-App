@@ -17,15 +17,15 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 
 ## 📂 Folder Structure
 lib/
-<br>
+ <br>
  ┣ constants/
-<br>
+ <br>
  ┣ models/  
-<br>
+ <br>
  ┣ screens/ 
-<br>
+ <br>
  ┣ widgets/  
-<br>
+ <br>
  ┣ main.dart       
 
 
