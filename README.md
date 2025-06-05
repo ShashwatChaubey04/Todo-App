@@ -19,13 +19,9 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 lib/
  <br>
  ┣ constants/
- <br>
  ┣ models/  
- <br>
  ┣ screens/ 
- <br>
  ┣ widgets/  
- <br>
  ┣ main.dart       
 
 
