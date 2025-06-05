@@ -1,16 +1,41 @@
-# todo_app
+# 📝 todo_app
 
-It is a digital application designed to help users manage and organize their tasks. It allows users to create lists of things they need to do, set deadlines, and mark tasks as completed, improving organization and productivity.
+A powerful and user-friendly ToDo application built using **Flutter**, designed to help users efficiently manage their daily tasks.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- ✅ **Add tasks** with titles and optional deadlines  
+- 🔍 **Search tasks** by keywords for quick access  
+- ❌ **Delete tasks** permanently when no longer needed  
+- ✅ **Mark tasks as completed** to track progress  
+- 💾 Persistent storage using local database (SQLite)  
+- 📱 Clean and responsive user interface  
 
-A few resources to get you started if this is your first Flutter project:
+## 📂 Folder Structure
+lib/
+ ┣ constants/
+ ┣ models/          
+ ┣ screens/        
+ ┣ widgets/         
+ ┣ main.dart       
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Dependencies Used
+provider – State management
+sqflite – Local database
+path_provider – File system paths
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📄 License
+This project is licensed under the MIT License.
+
+🔗 Resources
+Flutter Documentation
+WsCube Tech
+
+## 🚀 Getting Started
+To run this project locally:
+
+```bash
+git clone https://github.com/ShashwatChaubey04/Todo-App.git
+cd todo_app
+flutter pub get
+flutter run
