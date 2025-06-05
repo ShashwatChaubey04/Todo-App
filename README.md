@@ -2,6 +2,8 @@
 
 A powerful and user-friendly ToDo application built using **Flutter**, designed to help users efficiently manage their daily tasks.
 
+
+
 ## ✨ Features
 
 - ✅ **Add tasks** with titles and optional deadlines  
@@ -12,8 +14,8 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 - 📱 Clean and responsive user interface  
 
 
+
 ## 📂 Folder Structure
-<br>
 lib/
 <br>
  ┣ constants/
@@ -27,8 +29,8 @@ lib/
  ┣ main.dart       
 
 
+
 ## 📦 Dependencies Used
-<br>
 provider – State management
 <br>
 sqflite – Local database
@@ -36,20 +38,22 @@ sqflite – Local database
 path_provider – File system paths
 
 
+
 ## 📄 License
-<br>
 This project is licensed under the MIT License.
 
 
+
 ## 🔗 Resources
-<br>
 Flutter Documentation
 <br>
 WsCube Tech
 
 
+
 ## 🚀 Getting Started
 To run this project locally:
+
 
 ```bash
 git clone https://github.com/ShashwatChaubey04/Todo-App.git
