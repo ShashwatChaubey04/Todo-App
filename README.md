@@ -6,7 +6,7 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 
 ## ✨ Features
 
-- ✅ **Add tasks** with titles and optional deadlines  
+- ✅ **Add tasks** with titles and optional deadlines 
 - 🔍 **Search tasks** by keywords for quick access  
 - ❌ **Delete tasks** permanently when no longer needed  
 - ✅ **Mark tasks as completed** to track progress  
@@ -19,8 +19,10 @@ A powerful and user-friendly ToDo application built using **Flutter**, designed 
 lib/
  <br>
  ┣ constants/
+ <br>
  ┣ models/  
  ┣ screens/ 
+ <br>
  ┣ widgets/  
  ┣ main.dart       
 
